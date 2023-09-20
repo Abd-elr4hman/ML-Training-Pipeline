@@ -1,6 +1,7 @@
 # ML-Training-Pipeline
 This project illustrates a Machine-Learning training pipeline. The main focus is the MLOps Practices like Workflow Orchestration, CICD, Experiment tracking, Model versioning.
-![image](https://github.com/Abd-elr4hman/ML-Training-Pipeline/assets/87248009/c43d2939-71f5-4175-8698-2d866f1105e5)
+![image](https://github.com/Abd-elr4hman/ML-Training-Pipeline/assets/87248009/69ff8598-c24c-47a8-94e5-034302bc6d04)
+
 
 
 
